@@ -1,5 +1,5 @@
 
-|||
+| Word | Translate |
 | :--- | :---: |
 |breakpoints| 断点 |
 |scope| 作用域 |
